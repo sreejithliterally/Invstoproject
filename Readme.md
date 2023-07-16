@@ -6,9 +6,11 @@ This is simple application built using Python, FastAPI, SQLAlchemy, and PostgreS
 ## Features
 
 - Upload CSV: Users can upload CSV files containing investment data using the web interface. The backend processes the uploaded file and stores the data in the database.
-
+![Input](https://github.com/sreejithliterally/Invstoproject/blob/main/screenshots/csvip.png)
+![Backend Post req](https://github.com/sreejithliterally/Invstoproject/blob/main/screenshots/backendcsvip.png)
 - View Data: Users can view the stored investment data as tables on the web interface. The React frontend fetches the data from the backend API and displays it in an easy-to-read format.
-
+![View data]([http://url/to/img.png](https://github.com/sreejithliterally/Invstoproject/blob/main/screenshots/csvtableop.png))
+![View data](https://github.com/sreejithliterally/Invstoproject/blob/main/screenshots/backendget.png)
 ## Prerequisites
 
 Before running the application, make sure you have the following installed on your system:
