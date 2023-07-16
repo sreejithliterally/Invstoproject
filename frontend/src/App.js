@@ -32,7 +32,7 @@ const App = () => {
 
   return (
     <div className="container d-flex flex-column align-items-center mt-5">
-      <h1>CSV Data Upload and Display</h1>
+      <h1>CSV Data Upload and Display Project For Investo</h1>
       <div>
         <input type="file" onChange={handleUpload} />
         {isLoading ? <span>Uploading...</span> : null}
